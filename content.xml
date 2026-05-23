@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260523091511C5SO3D</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260523091511HPO355</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Crea tu cuento con imágenes IA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Isla de Plástico del Pacífico</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marianela Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Crearemos un cuento sobre la visita científica a la Isla de Plástico del Pacífico con imágenes de inteligencia artificial</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779519868578</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpi06mbs-4r3o6maae</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbs-4r3o6maae</odePageId>
+      <odeBlockId>block-1779275572209-7ew23jjjq</odeBlockId>
+      <blockName>¡Nos vamos!</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbs-4r3o6maae</odePageId>
+          <odeBlockId>block-1779275572209-7ew23jjjq</odeBlockId>
+          <odeIdeviceId>idevice-1779275572207-i2m6h098j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Proyecto: "Misión Isla de Plástico" <br />Crea tu propio cuento ilustrado con Inteligencia Artificial</p>
+<p><br />¡Hola, tripulación de 1º de ESO! En las próximas 4 sesiones nos vamos a convertir en científicos y escritores. Vamos a explorar la hidrosfera (el agua de nuestro planeta) y a descubrir cómo nuestras acciones en la Tierra pueden cambiar el rumbo de la naturaleza.</p>
+<p>📝 ¿En qué consiste nuestro reto?<br />Vais a escribir un cuento de aventuras basado en un viaje imaginario. ¿El destino? La gran isla de plástico del océano Pacífico.</p>
+<p>Pero no será un cuento cualquiera. En él tendréis que contar:</p>
+<p>El viaje: Cómo llegasteis allí y qué os encontrasteis.<br />La ciencia: Qué experimentos hicisteis para analizar el agua y el entorno.<br />Vuestras conclusiones: Qué habéis aprendido y cómo se relacionan la hidrosfera y la atmósfera con los seres vivos.<br />La magia de la IA: Ilustraréis vuestra historia creando imágenes alucinantes con herramientas de Inteligencia Artificial.</p>
+<p>Enlace a la tarea: <a href="https://docs.google.com/document/d/1tVFL-xLdjaTSolOCi9wJZMZuChhA87lnaDPJVzMM3rU/edit?usp=sharing">https://docs.google.com/document/d/1tVFL-xLdjaTSolOCi9wJZMZuChhA87lnaDPJVzMM3rU/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779275572207-i2m6h098j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Proyecto: \"Misión Isla de Plástico\" <br />Crea tu propio cuento ilustrado con Inteligencia Artificial</p>\n<p><br />¡Hola, tripulación de 1º de ESO! En las próximas 4 sesiones nos vamos a convertir en científicos y escritores. Vamos a explorar la hidrosfera (el agua de nuestro planeta) y a descubrir cómo nuestras acciones en la Tierra pueden cambiar el rumbo de la naturaleza.</p>\n<p>📝 ¿En qué consiste nuestro reto?<br />Vais a escribir un cuento de aventuras basado en un viaje imaginario. ¿El destino? La gran isla de plástico del océano Pacífico.</p>\n<p>Pero no será un cuento cualquiera. En él tendréis que contar:</p>\n<p>El viaje: Cómo llegasteis allí y qué os encontrasteis.<br />La ciencia: Qué experimentos hicisteis para analizar el agua y el entorno.<br />Vuestras conclusiones: Qué habéis aprendido y cómo se relacionan la hidrosfera y la atmósfera con los seres vivos.<br />La magia de la IA: Ilustraréis vuestra historia creando imágenes alucinantes con herramientas de Inteligencia Artificial.</p>\n<p>Enlace a la tarea: <a href=\"https://docs.google.com/document/d/1tVFL-xLdjaTSolOCi9wJZMZuChhA87lnaDPJVzMM3rU/edit?usp=sharing\">https://docs.google.com/document/d/1tVFL-xLdjaTSolOCi9wJZMZuChhA87lnaDPJVzMM3rU/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpi06mbv-g17ydumzp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbv-g17ydumzp</odePageId>
+      <odeBlockId>block-1779275709148-h85jedrbu</odeBlockId>
+      <blockName>Nos protegemos</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbv-g17ydumzp</odePageId>
+          <odeBlockId>block-1779275709148-h85jedrbu</odeBlockId>
+          <odeIdeviceId>idevice-1779275709145-6hw46yfw1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace encontrarás la información referente a la protección de datos personales y garantías de derechos digitales:</p>
+<p><a href="https://drive.google.com/file/d/17hddw13qcZDbARRZ11ShIizxGReVP-lY/view?usp=sharing">https://drive.google.com/file/d/17hddw13qcZDbARRZ11ShIizxGReVP-lY/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779275709145-6hw46yfw1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace encontrarás la información referente a la protección de datos personales y garantías de derechos digitales:</p>\n<p><a href=\"https://drive.google.com/file/d/17hddw13qcZDbARRZ11ShIizxGReVP-lY/view?usp=sharing\">https://drive.google.com/file/d/17hddw13qcZDbARRZ11ShIizxGReVP-lY/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpi06mbv-ii1n7vvkx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbv-ii1n7vvkx</odePageId>
+      <odeBlockId>block-1779275828573-zzz32ebt9</odeBlockId>
+      <blockName>¿A dónde vamos?</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbv-ii1n7vvkx</odePageId>
+          <odeBlockId>block-1779275828573-zzz32ebt9</odeBlockId>
+          <odeIdeviceId>idevice-1779275828571-zg1ueull3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Tus herramientas para el proyecto</strong><br />Para dar vida a nuestro cuento y crear unas imágenes alucinantes, no necesitas ser un experto en dibujo ni en informática. Vamos a usar tres herramientas súper chulas y muy fáciles de manejar:</p>
+<p>1. Canva: Tu estudio de diseño<br />¡Muchos de vosotros ya la conocéis! Usaremos Canva para dar forma al cuento. Lo mejor de todo es que haremos todo en el mismo sitio:</p>
+<p>Escribiréis el texto de la aventura.<br />Diseñaréis las páginas para que parezca un libro real.<br />Podréis usar su propia Inteligencia Artificial para crear imágenes directamente desde allí. ¡Es súper intuitivo!</p>
+<p><br />2. Gemini: El creador de imágenes por IA<br />Gemini es una herramienta gratuita de Google que funciona como un asistente mágico. Le pediréis con palabras lo que queréis ver y Gemini creará imágenes espectaculares con el estilo que más os guste (realista, tipo cómic, futurista...). ¡Solo hay que echarle imaginación a las descripciones!</p>
+<p></p>
+<p>3. Flaticon: El universo de los iconos<br />¿Quieres añadir una brújula, un termómetro de científico o un barco a tus páginas? En la web de Flaticon encontraréis miles de iconos divertidos para descargar. Son facilísimos de usar y muchos de ellos se pueden personalizar con los colores que queráis.</p>
+<p><strong>¿Cómo trabajaremos en clase?</strong></p>
+<p>¡Buenas noticias! En el instituto tenemos los carritos de ordenadores portátiles reservados para nosotros. Cada pareja tendrá su propio ordenador portátil asegurado en todas las sesiones para que podáis trabajar juntos, experimentar y diseñar vuestro cuento sin prisas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779275828571-zg1ueull3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tus herramientas para el proyecto</strong><br />Para dar vida a nuestro cuento y crear unas imágenes alucinantes, no necesitas ser un experto en dibujo ni en informática. Vamos a usar tres herramientas súper chulas y muy fáciles de manejar:</p>\n<p>1. Canva: Tu estudio de diseño<br />¡Muchos de vosotros ya la conocéis! Usaremos Canva para dar forma al cuento. Lo mejor de todo es que haremos todo en el mismo sitio:</p>\n<p>Escribiréis el texto de la aventura.<br />Diseñaréis las páginas para que parezca un libro real.<br />Podréis usar su propia Inteligencia Artificial para crear imágenes directamente desde allí. ¡Es súper intuitivo!</p>\n<p><br />2. Gemini: El creador de imágenes por IA<br />Gemini es una herramienta gratuita de Google que funciona como un asistente mágico. Le pediréis con palabras lo que queréis ver y Gemini creará imágenes espectaculares con el estilo que más os guste (realista, tipo cómic, futurista...). ¡Solo hay que echarle imaginación a las descripciones!</p>\n<p></p>\n<p>3. Flaticon: El universo de los iconos<br />¿Quieres añadir una brújula, un termómetro de científico o un barco a tus páginas? En la web de Flaticon encontraréis miles de iconos divertidos para descargar. Son facilísimos de usar y muchos de ellos se pueden personalizar con los colores que queráis.</p>\n<p><strong>¿Cómo trabajaremos en clase?</strong></p>\n<p>¡Buenas noticias! En el instituto tenemos los carritos de ordenadores portátiles reservados para nosotros. Cada pareja tendrá su propio ordenador portátil asegurado en todas las sesiones para que podáis trabajar juntos, experimentar y diseñar vuestro cuento sin prisas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpi06mbw-myjggx4ui</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbw-myjggx4ui</odePageId>
+      <odeBlockId>block-1779275929041-kne2x30fa</odeBlockId>
+      <blockName>¿Cómo lo hacemos?</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbw-myjggx4ui</odePageId>
+          <odeBlockId>block-1779275929041-kne2x30fa</odeBlockId>
+          <odeIdeviceId>idevice-1779275929038-pvggnk5hr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En los siguientes enlaces encontramos las dos herramientas de curación de contenidos:</p>
+<p><a href="https://padlet.com/nela3_3/padlet-cdd-tgaz7h57dcbxbq13">https://padlet.com/nela3_3/padlet-cdd-tgaz7h57dcbxbq13</a></p>
+<p><a href="https://nela.symbaloo.com/">https://nela.symbaloo.com/</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779275929038-pvggnk5hr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En los siguientes enlaces encontramos las dos herramientas de curación de contenidos:</p>\n<p><a href=\"https://padlet.com/nela3_3/padlet-cdd-tgaz7h57dcbxbq13\">https://padlet.com/nela3_3/padlet-cdd-tgaz7h57dcbxbq13</a></p>\n<p><a href=\"https://nela.symbaloo.com/\">https://nela.symbaloo.com/</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpi06mbw-hj8t6gk0j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbw-hj8t6gk0j</odePageId>
+      <odeBlockId>block-1779276039123-h10vt3bgj</odeBlockId>
+      <blockName>¿Cuándo lo hacemos?</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbw-hj8t6gk0j</odePageId>
+          <odeBlockId>block-1779276039123-h10vt3bgj</odeBlockId>
+          <odeIdeviceId>idevice-1779276039120-10tof1jnu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace encontrarás la línea temporal del proyecto.</p>
+<p><a href="https://drive.google.com/file/d/1N6GZq7wM2otDR2XMrBFiMFSlJmUkP3ws/view?usp=sharing">https://drive.google.com/file/d/1N6GZq7wM2otDR2XMrBFiMFSlJmUkP3ws/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779276039120-10tof1jnu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace encontrarás la línea temporal del proyecto.</p>\n<p><a href=\"https://drive.google.com/file/d/1N6GZq7wM2otDR2XMrBFiMFSlJmUkP3ws/view?usp=sharing\">https://drive.google.com/file/d/1N6GZq7wM2otDR2XMrBFiMFSlJmUkP3ws/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpi06mbw-2a50mcjap</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbw-2a50mcjap</odePageId>
+      <odeBlockId>block-1779276387523-1v98z9u00</odeBlockId>
+      <blockName>¿Cómo evaluamos?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbw-2a50mcjap</odePageId>
+          <odeBlockId>block-1779276387523-1v98z9u00</odeBlockId>
+          <odeIdeviceId>idevice-1779276387521-qxkndfkh6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace se detallan los criterios de evaluación:</p>
+<p><a href="https://docs.google.com/document/d/1AEieJ9EIpj2q-nW-opoHAH0Twl3wSVM-ZPMLWG9mSMQ/edit?usp=sharing">https://docs.google.com/document/d/1AEieJ9EIpj2q-nW-opoHAH0Twl3wSVM-ZPMLWG9mSMQ/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779276387521-qxkndfkh6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace se detallan los criterios de evaluación:</p>\n<p><a href=\"https://docs.google.com/document/d/1AEieJ9EIpj2q-nW-opoHAH0Twl3wSVM-ZPMLWG9mSMQ/edit?usp=sharing\">https://docs.google.com/document/d/1AEieJ9EIpj2q-nW-opoHAH0Twl3wSVM-ZPMLWG9mSMQ/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpi06mbw-4ex00atvf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbw-4ex00atvf</odePageId>
+      <odeBlockId>block-1779276230840-d63vaw40m</odeBlockId>
+      <blockName>¿Lo estamos haciendo bien?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbw-4ex00atvf</odePageId>
+          <odeBlockId>block-1779276230840-d63vaw40m</odeBlockId>
+          <odeIdeviceId>idevice-1779276230838-oy9cx0rln</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace encontramos los instrumentos de evaluación del proyecto: rúbrica y lista de cotejo.</p>
+<p><a href="https://drive.google.com/file/d/17Gvfv4OtWUJ0H8YQsp-iSc9AQALZEw6x/view?usp=sharing">https://drive.google.com/file/d/17Gvfv4OtWUJ0H8YQsp-iSc9AQALZEw6x/view?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779276230838-oy9cx0rln","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace encontramos los instrumentos de evaluación del proyecto: rúbrica y lista de cotejo.</p>\n<p><a href=\"https://drive.google.com/file/d/17Gvfv4OtWUJ0H8YQsp-iSc9AQALZEw6x/view?usp=sharing\">https://drive.google.com/file/d/17Gvfv4OtWUJ0H8YQsp-iSc9AQALZEw6x/view?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpi06mbx-i1ec5nsva</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpi06mbx-i1ec5nsva</odePageId>
+      <odeBlockId>block-1779375001083-08svvuvae</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpi06mbx-i1ec5nsva</odePageId>
+          <odeBlockId>block-1779375001083-08svvuvae</odeBlockId>
+          <odeIdeviceId>idevice-1779375001080-f4nxti7lj</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Crea tu cuento con imágenes IA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Crearemos un cuento sobre la visita científica a la Isla de Plástico del Pacífico con imágenes de inteligencia artificial</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marianela Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
